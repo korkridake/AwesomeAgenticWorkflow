@@ -7,4 +7,3 @@ AutoGen is a groundbreaking project by Microsoft that enables users to create as
 ## Additional Resources
 
 1. [Step by Step AutoGen by Microsoft: The Future of Programming using Autonomous GPT Like Agents | by Dr. Ernesto Lee | Medium](https://drlee.io/step-by-step-autogen-by-microsoft-the-future-of-programming-using-autonomous-gpt-like-agents-105ac45a518f)
-2. 
